@@ -1,0 +1,19 @@
+{
+  "name": "swatikode.github.io",
+  "description": "Profile for Swati Kode",
+  "version": "0.0.1",
+  "author": "Swati Kode",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/swatikode/swatikode.github.io.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "husky": "^3.0.9"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "git add ."
+    }
+  }
+}
