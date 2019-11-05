@@ -1,6 +1,6 @@
 {
   "author": "Swati Kode",
-  "name": "Swati Kode Website",
+  "name": "swati-kode-site",
   "username": "swatikode",
   "repository": {
     "type": "git",
@@ -18,7 +18,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
