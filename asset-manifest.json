@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/swatikode/swatikode.github.io/static/css/main.b100e6da.chunk.css",
+    "main.js": "/swatikode/swatikode.github.io/static/js/main.a87a0f80.chunk.js",
+    "main.js.map": "/swatikode/swatikode.github.io/static/js/main.a87a0f80.chunk.js.map",
+    "runtime-main.js": "/swatikode/swatikode.github.io/static/js/runtime-main.94e9238d.js",
+    "runtime-main.js.map": "/swatikode/swatikode.github.io/static/js/runtime-main.94e9238d.js.map",
+    "static/js/2.7b24f634.chunk.js": "/swatikode/swatikode.github.io/static/js/2.7b24f634.chunk.js",
+    "static/js/2.7b24f634.chunk.js.map": "/swatikode/swatikode.github.io/static/js/2.7b24f634.chunk.js.map",
+    "index.html": "/swatikode/swatikode.github.io/index.html",
+    "precache-manifest.36587ca0454b1ed6f09e733932251abe.js": "/swatikode/swatikode.github.io/precache-manifest.36587ca0454b1ed6f09e733932251abe.js",
+    "service-worker.js": "/swatikode/swatikode.github.io/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/swatikode/swatikode.github.io/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/swatikode/swatikode.github.io/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94e9238d.js",
+    "static/js/2.7b24f634.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.a87a0f80.chunk.js"
+  ]
+}
